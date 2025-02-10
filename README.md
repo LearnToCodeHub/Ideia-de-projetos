@@ -1,4 +1,4 @@
-# 📌 Project Ideas
+# 📌 Ideias de projetos
 
 Uma coleção de ideias de projetos para praticar programação. 🚀  
 
